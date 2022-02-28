@@ -8,6 +8,9 @@ import 'bootstrap/dist/css/bootstrap.css'
 import 'bootstrap-vue/dist/bootstrap-vue.css'
 import { BootstrapVueIcons } from 'bootstrap-vue'
 import 'bootstrap-vue/dist/bootstrap-vue-icons.min.css'
+import 'materialize-css/dist/css/materialize.min.css'
+import 'vue-material-design-icons/styles.css'
+
 
 Vue.use(BootstrapVueIcons)
 
