@@ -46,7 +46,7 @@
 
   <div class="row">
     <div class="col m12">
-      <table class="table bordered striped black white-text text-darken-2 ">
+      <table class="table bordered striped grey darken-4 white-text text-darken-2 ">
         <thead>
           <tr>
             <th>Nombre <b-icon icon="file-person"></b-icon></th>
